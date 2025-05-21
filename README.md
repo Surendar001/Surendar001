@@ -32,7 +32,8 @@
 
 <p align="left">
 I'm a Master's student in Computer Science at UMass Lowell.<br><br>
-- 🔭 I’m working as a Grader for Advanced Algorithms<br>
+- 💻 Currently working as Data Analyst at UMass Lowell
+- 🔭 Worked as a Grader for Analysis of Algorithms<br>
 - 💻 Previously a Software Engineer at Mphasis<br>
 - 📚 I'm currently learning Machine Learning and IoT<br>
 - ⚡ In my free time I build full-stack apps and explore cloud technologies
