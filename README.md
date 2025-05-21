@@ -57,7 +57,7 @@ I'm a Master's student in Computer Science at UMass Lowell.<br><br>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="aws logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="aws logo" />
 </div>
 
 ###
@@ -65,8 +65,13 @@ I'm a Master's student in Computer Science at UMass Lowell.<br><br>
 <h3 align="left">📈 My GitHub Stats</h3>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Surendar001&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+<!--   <img src="https://streak-stats.demolab.com?user=Surendar001&theme=dark" height="220" alt="streak graph"  /> -->
 </div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Surendar001&show_icons=true&theme=dark" height="220" alt="GitHub Stats" />
+</div>
+
 
 ###
 
@@ -74,3 +79,5 @@ I'm a Master's student in Computer Science at UMass Lowell.<br><br>
 - 🌐 [Portfolio Website](https://myportfolio-mqmd.vercel.app/)
 - 💼 [LinkedIn](https://www.linkedin.com/in/surendar-mourougan/)
 - 📧 [Email](mailto:surendarmou@gmail.com)
+
+###
