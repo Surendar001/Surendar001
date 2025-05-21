@@ -24,7 +24,7 @@
 
 ###
 
-<h1 align="center">Hey there 👋 I'm Surendar Mourougan</h1>
+<h1 align="center">Hey peeps 👋 I'm Surendar Mourougan</h1>
 
 ###
 
