@@ -32,7 +32,7 @@
 
 <p align="left">
 I'm a Master's student in Computer Science at UMass Lowell.<br><br>
-- 💻 Currently working as Data Analyst at UMass Lowell
+- 💻 Currently working as Data Analyst at UMass Lowell<br>
 - 🔭 Worked as a Grader for Analysis of Algorithms<br>
 - 💻 Previously a Software Engineer at Mphasis<br>
 - 📚 I'm currently learning Machine Learning and IoT<br>
